@@ -18,3 +18,5 @@
 4. [Система мониторинга Prometheus](hw-04.md)
 
 5. [Система мониторинга Prometheus. Часть 2](hw-05.md)
+
+![image](https://github.com/Franky12111990/monitoring-homeworks/assets/121640886/cb8c0c75-1e72-451e-a7cc-11bda4940ba7)
